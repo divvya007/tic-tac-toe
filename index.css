@@ -1,0 +1,23 @@
+.layout-center {
+  display: table;
+  margin: 20% auto;
+}
+
+#captn {
+  margin-bottom: 10px;
+  color: rgba(223, 28, 135, 0.979);
+}
+table,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  width: 500px;
+  height: 500px;
+}
+td {
+  text-align: center;
+  padding: 15px;
+}
